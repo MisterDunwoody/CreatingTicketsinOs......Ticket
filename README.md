@@ -9,14 +9,14 @@ This tutorial outlines the creating of a ticket within the open-source help desk
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure 
+- Windows Virtual Machines
 - Remote Desktop
-- Internet Information Services (IIS)
 - osTicket
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b>
 
 <h2>Ticket Lifecycle Stages</h2>
 
