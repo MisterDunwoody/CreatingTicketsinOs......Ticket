@@ -21,8 +21,8 @@ This tutorial outlines the creating of a ticket within the open-source help desk
 <h2>Ticket Lifecycle Stages</h2>
 
 - Creation of Ticket
-- Assignment and Communication
-- Working the Issue/Ticket
+- Assignment of the ticket to a Help Desk Professional
+- Communication during Troubleshoot
 - Resolution of Issue/Ticket
 
 <h2>Lifecycle Stages</h2>
